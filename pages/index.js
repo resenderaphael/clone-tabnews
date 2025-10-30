@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>vudu é pra jacu</h1>
+    return <h1>Deus não joga dados</h1>
 }
 
 export default Home;
